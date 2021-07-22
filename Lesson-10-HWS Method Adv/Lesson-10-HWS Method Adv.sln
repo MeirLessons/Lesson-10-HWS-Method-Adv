@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson-10-HWS Method Adv", "Lesson-10-HWS Method Adv\Lesson-10-HWS Method Adv.csproj", "{EAD5B146-1CD5-4C5F-968A-18BA2558BC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD5B146-1CD5-4C5F-968A-18BA2558BC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD5B146-1CD5-4C5F-968A-18BA2558BC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD5B146-1CD5-4C5F-968A-18BA2558BC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD5B146-1CD5-4C5F-968A-18BA2558BC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19148F1A-3267-485A-8490-8C468A77371B}
+	EndGlobalSection
+EndGlobal
